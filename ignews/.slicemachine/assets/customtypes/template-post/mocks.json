@@ -1,0 +1,21 @@
+{
+  "id": "b32ee31c-cee3-49d1-81f0-92499975f891",
+  "uid": "ipsum-consequuntur-magnam",
+  "type": "template-post",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Laborum ipsum ullamco excepteur quis sunt reprehenderit pariatur et cupidatat est. Elit eiusmod anim culpa laborum adipisicing ipsum dolor et. Exercitation mollit occaecat labore in irure excepteur laborum consectetur esse esse duis eu ut velit.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Irure proident consectetur id est cillum commodo qui et. Commodo eiusmod ad voluptate mollit dolore elit voluptate esse pariatur pariatur exercitation.",
+        "spans": []
+      }
+    ]
+  }
+}
