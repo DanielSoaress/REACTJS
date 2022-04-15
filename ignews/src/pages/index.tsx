@@ -30,7 +30,7 @@ export default function Home({ product }) {
             priceId={ product.priceId } />
         </section>
 
-        <Image src="/images/avatar.svg" alt="Girl coding" />
+        <img src="/images/avatar.svg" alt="Girl coding" />
       </main>
     </>
   )
